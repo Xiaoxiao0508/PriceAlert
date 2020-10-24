@@ -16,6 +16,6 @@ Run command
 
 ## Todo
 * Register command as a cronjob
-* Send email notification when price dropped below the target price (Done)
+* Send email notification when price dropped below the target price 
 * Save price, date, etc into database and visualize the data
 * support more website
